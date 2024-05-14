@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "262232334190",
+    "firebase_url": "https://masarisalik2-default-rtdb.firebaseio.com",
+    "project_id": "masarisalik2",
+    "storage_bucket": "masarisalik2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262232334190:android:6b6e6e8ced7fb0a014ab7f",
+        "android_client_info": {
+          "package_name": "com.example.masari_salik_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIA_Pvr5vfCoROp0G24AcLLQRMpQwRWYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
